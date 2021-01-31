@@ -86,5 +86,3 @@ wincertstore==0.2
 wordcloud==1.7.0
 emoji==1.2.0
 wordnet
-pros_cons
-reuters
